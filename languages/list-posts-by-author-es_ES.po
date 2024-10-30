@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: list posts by author\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/list-posts-by-author\n"
+"POT-Creation-Date: 2009-05-29 07:25+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rodolfo Martínez <drimar@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: list-posts-by-author.php:41
+#: list-posts-by-author.php:128
+msgid "Opciones"
+msgstr "Opciones"
+
+#: list-posts-by-author.php:110
+msgid "Listado de entradas por autor"
+msgstr "Listado de entradas por autor"
+
+#: list-posts-by-author.php:116
+msgid "Opciones actualizadas"
+msgstr "Opciones actualizadas"
+
+#: list-posts-by-author.php:130
+msgid "Valores actuales"
+msgstr "Valores actuales"
+
+#: list-posts-by-author.php:135
+msgid "Escritos por"
+msgstr "Escritos por"
+
+#: list-posts-by-author.php:165
+#: list-posts-by-author.php:170
+msgid "Todos"
+msgstr "Todos"
+
+#: list-posts-by-author.php:196
+msgid "No escritos por"
+msgstr "No escritos por"
+
+#: list-posts-by-author.php:215
+#: list-posts-by-author.php:220
+msgid "Ninguno"
+msgstr "Ninguno"
+
+#: list-posts-by-author.php:215
+#: list-posts-by-author.php:223
+msgid "No filtrar"
+msgstr "No filtrar"
+
+#: list-posts-by-author.php:249
+msgid "Visualizar"
+msgstr "Visualizar"
+
+#: list-posts-by-author.php:255
+#: list-posts-by-author.php:446
+msgid "Entradas"
+msgstr "Entradas"
+
+#: list-posts-by-author.php:255
+msgid "Páginas"
+msgstr "Páginas"
+
+#: list-posts-by-author.php:255
+msgid "Entradas y páginas"
+msgstr "Entradas y páginas"
+
+#: list-posts-by-author.php:278
+msgid "Ordenar por"
+msgstr "Ordenar por"
+
+#: list-posts-by-author.php:284
+msgid "Fecha"
+msgstr "Fecha"
+
+#: list-posts-by-author.php:284
+msgid "Título"
+msgstr "Título"
+
+#: list-posts-by-author.php:307
+msgid "Ordenación"
+msgstr "Ordenación"
+
+#: list-posts-by-author.php:313
+msgid "Ascendente"
+msgstr "Ascendente"
+
+#: list-posts-by-author.php:313
+msgid "Descendente"
+msgstr "Descendente"
+
+#: list-posts-by-author.php:339
+msgid "Formato"
+msgstr "Formato"
+
+#: list-posts-by-author.php:346
+#: list-posts-by-author.php:481
+msgid "Visualizar como"
+msgstr "Visualizar como"
+
+#: list-posts-by-author.php:352
+msgid "Lista"
+msgstr "Lista"
+
+#: list-posts-by-author.php:352
+msgid "Lista numerada"
+msgstr "Lista numerada"
+
+#: list-posts-by-author.php:352
+msgid "Tabla"
+msgstr "Tabla"
+
+#: list-posts-by-author.php:380
+msgid "Autores"
+msgstr "Autores"
+
+#: list-posts-by-author.php:387
+msgid "Estilo para el autor"
+msgstr "Estilo para el autor"
+
+#: list-posts-by-author.php:393
+msgid "Cabecera 1"
+msgstr "Cabecera 1"
+
+#: list-posts-by-author.php:393
+msgid "Cabecera 2"
+msgstr "Cabecera 2"
+
+#: list-posts-by-author.php:393
+msgid "Cabecera 3"
+msgstr "Cabecera 3"
+
+#: list-posts-by-author.php:417
+msgid "Color para el autor"
+msgstr "Color para el autor"
+
+#: list-posts-by-author.php:423
+msgid "Negro"
+msgstr "Negro"
+
+#: list-posts-by-author.php:423
+msgid "Gris"
+msgstr "Gris"
+
+#: list-posts-by-author.php:423
+msgid "Rojo oscuro"
+msgstr "Rojo oscuro"
+
+#: list-posts-by-author.php:423
+msgid "Naranja"
+msgstr "Naranja"
+
+#: list-posts-by-author.php:423
+msgid "Verde"
+msgstr "Verde"
+
+#: list-posts-by-author.php:423
+msgid "Amarillo"
+msgstr "Amarillo"
+
+#: list-posts-by-author.php:453
+msgid "Estilo de entrada"
+msgstr "Estilo de entrada"
+
+#: list-posts-by-author.php:458
+msgid "Normal"
+msgstr "Normal"
+
+#: list-posts-by-author.php:458
+msgid "Cursiva"
+msgstr "Cursiva"
+
+#: list-posts-by-author.php:458
+msgid "Negrita"
+msgstr "Negrita"
+
+#: list-posts-by-author.php:487
+msgid "Texto"
+msgstr "Texto"
+
+#: list-posts-by-author.php:487
+msgid "Enlace"
+msgstr "Enlace"
+
+#: list-posts-by-author.php:487
+msgid "Enlace a ventana/pestaña nueva"
+msgstr "Enlace a ventana/pestaña nueva"
+
+#: list-posts-by-author.php:522
+msgid "Actualizar opciones"
+msgstr "Actualizar opciones"
+
+#. Plugin Name of an extension
+msgid "List posts by author"
+msgstr "List posts by author"
+
+#. Description of an extension
+msgid "Lists all the posts or the pages (or both of them) group by their authors"
+msgstr "Lists all the posts or the pages (or both of them) group by their authors"
+
+#. Author of an extension
+msgid "Rodolfo Martínez"
+msgstr "Rodolfo Martínez"
+
+#. Author URI of an extension
+msgid "http://www.escritoenelagua.com/"
+msgstr "http://www.escritoenelagua.com/"
+

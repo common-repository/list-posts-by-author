@@ -1,0 +1,214 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Rodolfo Martnez
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/list-posts-by-author\n"
+"POT-Creation-Date: 2009-05-29 06:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: list-posts-by-author.php:39 list-posts-by-author.php:120
+msgid "Opciones"
+msgstr ""
+
+#: list-posts-by-author.php:102
+msgid "Listado de entradas por autor"
+msgstr ""
+
+#: list-posts-by-author.php:108
+msgid "Opciones actualizadas"
+msgstr ""
+
+#: list-posts-by-author.php:122
+msgid "Valores actuales"
+msgstr ""
+
+#: list-posts-by-author.php:127
+msgid "Escritos por"
+msgstr ""
+
+#: list-posts-by-author.php:157 list-posts-by-author.php:162
+msgid "Autores"
+msgstr ""
+
+#: list-posts-by-author.php:157 list-posts-by-author.php:165
+msgid "Administradores"
+msgstr ""
+
+#: list-posts-by-author.php:157 list-posts-by-author.php:168
+msgid "Todos"
+msgstr ""
+
+#: list-posts-by-author.php:194
+msgid "Visualizar"
+msgstr ""
+
+#: list-posts-by-author.php:200
+msgid "Entradas"
+msgstr ""
+
+#: list-posts-by-author.php:200
+msgid "Páginas"
+msgstr ""
+
+#: list-posts-by-author.php:200
+msgid "Entradas y páginas"
+msgstr ""
+
+#: list-posts-by-author.php:223
+msgid "Ordenar por"
+msgstr ""
+
+#: list-posts-by-author.php:229
+msgid "Fecha"
+msgstr ""
+
+#: list-posts-by-author.php:229
+msgid "Título"
+msgstr ""
+
+#: list-posts-by-author.php:252
+msgid "Ordenación"
+msgstr ""
+
+#: list-posts-by-author.php:258
+msgid "Ascendente"
+msgstr ""
+
+#: list-posts-by-author.php:258
+msgid "Descendente"
+msgstr ""
+
+#: list-posts-by-author.php:284
+msgid "Formato"
+msgstr ""
+
+#: list-posts-by-author.php:291
+msgid "Visualizar como"
+msgstr ""
+
+#: list-posts-by-author.php:297
+msgid "Lista"
+msgstr ""
+
+#: list-posts-by-author.php:297
+msgid "Lista numerada"
+msgstr ""
+
+#: list-posts-by-author.php:297
+msgid "Tabla"
+msgstr ""
+
+#: list-posts-by-author.php:325
+msgid "Cabecera"
+msgstr ""
+
+#: list-posts-by-author.php:332
+msgid "Estilo de cabecera"
+msgstr ""
+
+#: list-posts-by-author.php:338
+msgid "Cabecera 1"
+msgstr ""
+
+#: list-posts-by-author.php:338
+msgid "Cabecera 2"
+msgstr ""
+
+#: list-posts-by-author.php:338
+msgid "Cabecera 3"
+msgstr ""
+
+#: list-posts-by-author.php:362
+msgid "Color de cabecera"
+msgstr ""
+
+#: list-posts-by-author.php:368
+msgid "Negro"
+msgstr ""
+
+#: list-posts-by-author.php:368
+msgid "Gris"
+msgstr ""
+
+#: list-posts-by-author.php:368
+msgid "Rojo oscuro"
+msgstr ""
+
+#: list-posts-by-author.php:368
+msgid "Naranja"
+msgstr ""
+
+#: list-posts-by-author.php:368
+msgid "Verde"
+msgstr ""
+
+#: list-posts-by-author.php:368
+msgid "Amarillo"
+msgstr ""
+
+#: list-posts-by-author.php:391
+msgid "Detalle"
+msgstr ""
+
+#: list-posts-by-author.php:398
+msgid "Estilo de detalle"
+msgstr ""
+
+#: list-posts-by-author.php:403
+msgid "Normal"
+msgstr ""
+
+#: list-posts-by-author.php:403
+msgid "Cursiva"
+msgstr ""
+
+#: list-posts-by-author.php:403
+msgid "Negrita"
+msgstr ""
+
+#: list-posts-by-author.php:426
+msgid "Tipo de detalle"
+msgstr ""
+
+#: list-posts-by-author.php:432
+msgid "Texto"
+msgstr ""
+
+#: list-posts-by-author.php:432
+msgid "Enlace"
+msgstr ""
+
+#: list-posts-by-author.php:432
+msgid "Enlace a ventana/pestaña nueva"
+msgstr ""
+
+#: list-posts-by-author.php:467
+msgid "Actualizar opciones"
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "List posts by author"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"List all the posts or the pages (or both of them) group by their authors"
+msgstr ""
+
+#. Author of an extension
+msgid "Rodolfo Martínez"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://www.escritoenelagua.com/"
+msgstr ""
